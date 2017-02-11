@@ -18,7 +18,8 @@
   },
   "dependencies": {
     "vue": "^1.0.21",
-    "babel-runtime": "^6.0.0"
+    "babel-runtime": "^6.0.0",
+    "iview": "^0.9.17"
   },
   "devDependencies": {
     "babel-core": "^6.0.0",
